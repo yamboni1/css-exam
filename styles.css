@@ -10,13 +10,13 @@ main{
     align-items: center;
     flex-wrap: wrap;
     width: 500px;
-    margin: 40px auto;
+    margin: auto;
 }
 .flex-container > div{
-    display: inline-block;
     background-color: pink;
     border: 1px solid red;
     color: blue;
     margin: 20px;
     padding: 30px;
+    font-size: 30px;
 }
